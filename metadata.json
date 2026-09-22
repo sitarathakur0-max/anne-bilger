@@ -1,0 +1,6 @@
+{
+  "name": "Anne Bilger Audition Sàrl",
+  "description": "Professional hearing-services practice in Arconciel, Switzerland. Dedicated to personalized hearing consultations, auditory wellness, and attentive care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
